@@ -9,5 +9,6 @@
   <modules>
   	<module>kocurki-domain</module>
   	<module>kocurki-application</module>
+  	<module>kocurki-webapp</module>
   </modules>
 </project>
