@@ -11,4 +11,5 @@
   	<module>kocurki-application</module>
   	<module>kocurki-webapp</module>
   </modules>
+  <url>http://kobietydokodu.pl</url>
 </project>

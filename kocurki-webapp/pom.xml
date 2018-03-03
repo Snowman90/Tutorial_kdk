@@ -18,14 +18,6 @@
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		
-		<!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
-		<dependency>
-		    <groupId>org.springframework</groupId>
-		    <artifactId>spring-core</artifactId>
-		    <version>5.0.3.RELEASE</version>
-		</dependency>
-				
-		
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 		<dependency>
 		    <groupId>org.springframework</groupId>
@@ -39,6 +31,9 @@
 		    <artifactId>spring-context</artifactId>
 		    <version>5.0.3.RELEASE</version>
 		</dependency>
+				
+		
+		
 		
 
 	</dependencies>
